@@ -1,4 +1,4 @@
-- Tom H
+- Tom
 - Comp. Eng. Student
 - Power Electronics Software Eng. Intern
 - tomhoskins0712@gmail.com
